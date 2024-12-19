@@ -1,0 +1,17 @@
+<svg id="Tv--Streamline-Atlas" xmlns="http://www.w3.org/2000/svg" viewBox="-0.94 -0.94 30 30" height="60" width="60">
+  <desc>Tv Streamline Icon: https://streamlinehq.com</desc>
+  <defs>
+    <!-- Define a smooth gradient with blue, purple, red, and orange -->
+    <linearGradient id="gradient-blend-tv" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0000FF" /> <!-- Blue -->
+      <stop offset="33%" stop-color="#800080" /> <!-- Purple -->
+      <stop offset="66%" stop-color="#FF0000" /> <!-- Red -->
+      <stop offset="100%" stop-color="#FFA500" /> <!-- Orange -->
+    </linearGradient>
+  </defs>
+  <path d="m14.059999999999999 25.249416666666665 0 -5.6005666666666665" fill="none" stroke="url(#gradient-blend-tv)" stroke-miterlimit="10" stroke-width="1.88"></path>
+  <path d="m8.47115 25.249416666666665 11.177699999999998 0" fill="none" stroke="url(#gradient-blend-tv)" stroke-miterlimit="10" stroke-width="1.88"></path>
+  <path d="M1.7574999999999998 2.8705833333333333h24.605v17.89135h-24.605Z" fill="none" stroke="url(#gradient-blend-tv)" stroke-miterlimit="10" stroke-width="1.88"></path>
+</svg>
+
+
